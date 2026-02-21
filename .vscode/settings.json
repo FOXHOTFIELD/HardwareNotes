@@ -1,6 +1,0 @@
-{
-  "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
-  "markdown.copyFiles.destination": {
-    "**/*": "images/${fileName}"
-  }
-}
